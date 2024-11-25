@@ -64,13 +64,13 @@ JSoup: HTML parsing library. (It was added to the pom.xml file but was not used 
 Maven: Dependency and build management.
 
 ## Project Structure
-src
-├── main
-├── test
-│   ├── java
-│   │   └── pages       # Page Object Model classes
-│   │   └── runners     # Test runners
-│   │   └── stepDefs    # Step definitions for Cucumber
+src\
+├── main\
+├── test\
+│   ├── java\
+│   │   └── pages       # Page Object Model classes|
+│   │   └── runners     # Test runners\
+│   │   └── stepDefs    # Step definitions for Cucumber\
 │   │   └── utils       # Helper methods
 │   │
 │   └── resources
