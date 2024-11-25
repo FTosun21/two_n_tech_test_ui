@@ -71,13 +71,13 @@ src\
 │   │   └── pages       # Page Object Model classes|
 │   │   └── runners     # Test runners\
 │   │   └── stepDefs    # Step definitions for Cucumber\
-│   │   └── utils       # Helper methods
-│   │
-│   └── resources
-│       └── features    # Cucumber feature files
-│       └── uploadFile  # upload file
-│
-├── config      # Configuration files
+│   │   └── utils       # Helper methods\
+│   │\
+│   └── resources\
+│       └── features    # Cucumber feature files\
+│       └── uploadFile  # upload file|
+│\
+├── config      # Configuration files\
 
 
 ### My framework is a Cucumber and Hybrid Framework which contains BDD and DDT Frameworks.
