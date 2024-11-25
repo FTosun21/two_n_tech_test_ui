@@ -67,15 +67,15 @@ Maven: Dependency and build management.
 src \
 ├── main \
 ├── test \
-│   ├── java \
-│   │   └── pages  \
-│   │   └── runners \
-│   │   └── stepDefs \
-│   │   └── utils \
-│   │ \
-│   ├── resources \
-│   │   └── features \
-│   │   └── uploadFile \
+│      ├── java \
+│      │   └── pages  \
+│      │   └── runners \
+│      │   └── stepDefs \
+│      │   └── utils \
+│      │ \
+│      ├── resources \
+│      │   └── features \
+│      │   └── uploadFile \
 │ \
 ├── config \
 
