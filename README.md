@@ -74,8 +74,8 @@ src \
 │   │   └── utils \
 │   │ \
 │   ├── resources \
-│       └── features \
-│       └── uploadFile \
+│   │   └── features \
+│   │   └── uploadFile \
 │ \
 ├── config \
 
