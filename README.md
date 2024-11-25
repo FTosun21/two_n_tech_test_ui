@@ -65,32 +65,19 @@ Maven: Dependency and build management.
 
 ## Project Structure
 src \
-
 ├── main \
-
 ├── test \
-
 │   ├── java \
-
 │   │   └── pages  \
-
 │   │   └── runners \
-
 │   │   └── stepDefs \
-
-│   │   └── utils             \
-
+│   │   └── utils \
 │   │ \
-
 │   └── resources \ 
-
-│       └── features          \
-
-│       └── uploadFile       \
-
+│       └── features \
+│       └── uploadFile \
 │ \
-
-├── config                   \
+├── config \
 
 
 ### My framework is a Cucumber and Hybrid Framework which contains BDD and DDT Frameworks.
