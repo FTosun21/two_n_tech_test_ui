@@ -73,7 +73,7 @@ src \
 │   │   └── stepDefs \
 │   │   └── utils \
 │   │ \
-│   └── resources \ 
+│   └── resources\
 │       └── features \
 │       └── uploadFile \
 │ \
