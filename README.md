@@ -65,18 +65,31 @@ Maven: Dependency and build management.
 
 ## Project Structure
 src \
+
 ├── main \
+
 ├── test \
+
 │   ├── java \
-│   │   └── pages             \
-│   │   └── runners           \
-│   │   └── stepDefs        \
+
+│   │   └── pages  \
+
+│   │   └── runners \
+
+│   │   └── stepDefs \
+
 │   │   └── utils             \
+
 │   │ \
+
 │   └── resources \ 
+
 │       └── features          \
+
 │       └── uploadFile       \
+
 │ \
+
 ├── config                   \
 
 
