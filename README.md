@@ -64,20 +64,20 @@ JSoup: HTML parsing library. (It was added to the pom.xml file but was not used 
 Maven: Dependency and build management.
 
 ## Project Structure
-src\
-├── main\
-├── test\
-│   ├── java\
-│   │   └── pages       # Page Object Model classes\
-│   │   └── runners     # Test runners\
-│   │   └── stepDefs    # Step definitions for Cucumber\
-│   │   └── utils       # Helper methods\
-│   │\
-│   └── resources\
-│       └── features    # Cucumber feature files\
-│       └── uploadFile  # upload file|
-│\
-├── config      # Configuration files\
+src \
+├── main \
+├── test \
+│   ├── java \
+│   │   └── pages           # Page Object Model classes \
+│   │   └── runners         # Test runners \
+│   │   └── stepDefs        # Step definitions for Cucumber \
+│   │   └── utils           # Helper methods \
+│   │ \
+│   └── resources \ 
+│       └── features        # Cucumber feature files \
+│       └── uploadFile      # upload file \
+│ \
+├── config                  # Configuration files \
 
 
 ### My framework is a Cucumber and Hybrid Framework which contains BDD and DDT Frameworks.
