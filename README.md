@@ -68,16 +68,16 @@ src \
 ├── main \
 ├── test \
 │   ├── java \
-│   │   └── pages           # Page Object Model classes \
-│   │   └── runners         # Test runners \
-│   │   └── stepDefs        # Step definitions for Cucumber \
-│   │   └── utils           # Helper methods \
+│   │   └── pages             \
+│   │   └── runners           \
+│   │   └── stepDefs        \
+│   │   └── utils             \
 │   │ \
 │   └── resources \ 
-│       └── features        # Cucumber feature files \
-│       └── uploadFile      # upload file \
+│       └── features          \
+│       └── uploadFile       \
 │ \
-├── config                  # Configuration files \
+├── config                   \
 
 
 ### My framework is a Cucumber and Hybrid Framework which contains BDD and DDT Frameworks.
