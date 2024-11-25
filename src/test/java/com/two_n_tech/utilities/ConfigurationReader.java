@@ -22,15 +22,4 @@ public class ConfigurationReader {
 
         return properties.getProperty(key);
     }
-    public static void set(String keyName, String value) {
-        String path = "Configuration.properties";
-
-        try {
-            OutputStream output = new FileOutputStream(path);
-            properties.setProperty(keyName, value);
-            properties.store(output, null);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
 }
