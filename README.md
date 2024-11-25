@@ -68,7 +68,7 @@ src\
 ├── main\
 ├── test\
 │   ├── java\
-│   │   └── pages       # Page Object Model classes|
+│   │   └── pages       # Page Object Model classes\
 │   │   └── runners     # Test runners\
 │   │   └── stepDefs    # Step definitions for Cucumber\
 │   │   └── utils       # Helper methods\
